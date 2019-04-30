@@ -146,3 +146,30 @@ Experienced developers that understand computational cost, software engineering 
 ### M2Agro
 
 Ambiente descontraído. Interessados devem encaminhar curriculo e se apresentarem no e-mail: marcelo.melo@m2agro.com.br
+
+### HostGator Brasil
+
+* O que procuramos?
+
+Desenvolvedor(a) back-end 
+Analista de Conteúdo 
+Estagiário(a) de Growth Marketing 
+UI Designer Sênior 
+Coordenador(a) de Vendas 
+Senior Product Owner 
+UX/UI Designer 
+Analista de Soporte Avanzado I 
+Assistente de Suporte I - Vaga exclusiva PCD (Portador de Deficiência) 
+Estagiário(a) Suporte 
+Analista de Sucesso do Cliente 
+Analista de Infraestrutura em Segurança da Informação 
+Analista de Monitoramento 
+Procurement 
+
+Mais vagas em https://boards.greenhouse.io/brazil
+
+Enviar CV para sinesio.bittencourt@hostgator.com.br
+
+
+
+
